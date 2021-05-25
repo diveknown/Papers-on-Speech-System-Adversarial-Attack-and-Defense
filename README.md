@@ -18,5 +18,6 @@ remain to be introduced
 # - Speaker Recognition/Verfication
 ## 【1】Survey
 ## 【2】Attack Papers
+1. ### Learning to fool the speaker recognition. [Jiguo Li, ..] ([paper](https://arxiv.org/abs/2004.03434)、[code](https://github.com/smallflyingpig/learning-to-fool-the-speaker-recognition)、[Web](https://smallflyingpig.github.io/speaker-recognition-attacker/main)) ICASSP 2020 
 ## 【3】Defense Papers
 ## 【4】Related Techniques
