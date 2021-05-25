@@ -6,7 +6,7 @@
 #### https://www.usenix.org/conference/usenixsecurity18/presentation/yuan-xuejing USENIX2018</br>
 在歌曲中嵌入指令。对kaldi里的“ASpIRE Chain Model” 攻击，模型是HMM-DNN，指定command，载体声音向command的token序列定向移动
 
-### Hidden Voice Commands
+2. ### Hidden Voice Commands
 #### https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/carlini USENIX2016</br>
 remain to be introduced
 
