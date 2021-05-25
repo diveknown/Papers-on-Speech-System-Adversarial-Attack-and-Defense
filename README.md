@@ -12,7 +12,7 @@
 2. ###隐藏语音命令[[paper]（https://security.cs.georgetown.edu/~tavish/hvc_usenix.pdf）] [[video] （https://www.usenix.org/conference/ usenixsecurity16 / technical-sessions / presentation / carlini）] USENIX2016 </br>
 remain to be introduced
 ## 【3】Defense Papers
-## 【4】Related Technique
+## 【4】Related Techniques
 
 ---
 # - Speaker Recognition/Verfication
