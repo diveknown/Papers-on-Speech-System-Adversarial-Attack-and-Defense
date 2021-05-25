@@ -10,9 +10,9 @@
 
 2. ###隐藏语音命令[[paper]（https://security.cs.georgetown.edu/~tavish/hvc_usenix.pdf）] [[video] （https://www.usenix.org/conference/ usenixsecurity16 / technical-sessions / presentation / carlini）] USENIX2016 </br>
 remain to be introduced
+## 【2】Technique
 
 ---
-## 【2】Technique
 # - Speaker Recognition/Verfication
 ## 【1】Survey
 ## 【2】Adversarial Attack Paper
