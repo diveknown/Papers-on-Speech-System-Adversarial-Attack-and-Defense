@@ -9,7 +9,7 @@
 1. ### CommanderSong: A Systematic Approach for Practical Adversarial Voice Recognition [[paper](https://www.usenix.org/system/files/conference/usenixsecurity18/sec18-yuan.pdf)]  [[video](https://www.usenix.org/conference/usenixsecurity18/presentation/yuan-xuejing)] [[code]()] [[method]()] USENIX2018</br>
   方法简介：在歌曲中嵌入指令。对kaldi里的“ASpIRE Chain Model” 攻击，模型是HMM-DNN，指定command，载体声音向command的token序列定向移动。
 
-2. ###隐藏语音命令[[paper]（https://security.cs.georgetown.edu/~tavish/hvc_usenix.pdf）] [[video] （https://www.usenix.org/conference/ usenixsecurity16 / technical-sessions / presentation / carlini）] USENIX2016 </br>
+2. ### 隐藏语音命令[[paper](https://security.cs.georgetown.edu/~tavish/hvc_usenix.pdf)] [[video] (https://www.usenix.org/conference/ usenixsecurity16 / technical-sessions / presentation / carlini)] USENIX2016 
 remain to be introduced
 ## 【3】Defense Papers
 ## 【4】Related Techniques
