@@ -20,4 +20,5 @@ remain to be introduced
 ## 【2】Attack Papers
 1. ### Learning to fool the speaker recognition. [Jiguo Li, ..] ([paper](https://arxiv.org/abs/2004.03434)、[code](https://github.com/smallflyingpig/learning-to-fool-the-speaker-recognition)、[Web](https://smallflyingpig.github.io/speaker-recognition-attacker/main)) ICASSP 2020 
 ## 【3】Defense Papers
+1. ### ADVERSARIAL DEFENSE FOR DEEP SPEAKER RECOGNITION USING HYBRID DVERSARIAL TRAINING. [Monisankha Pal1, Arindam Jati..]([paper](https://click.endnote.com/viewer?doi=arxiv%3A2010.16038&token=WzMwMDk0MDksImFyeGl2OjIwMTAuMTYwMzgiXQ.aPqCea3u6FjoIoo0nZDy-Fe883U))ICASSP 2021
 ## 【4】Related Techniques
