@@ -18,7 +18,7 @@ remain to be introduced
 # - Speaker Recognition/Verfication
 ## 【1】Survey
 ## 【2】Attack Papers
-1. ### Learning to fool the speaker recognition. [Jiguo Li, ..] ([paper](https://arxiv.org/abs/2004.03434)、[code](https://github.com/smallflyingpig/learning-to-fool-the-speaker-recognition)、[Web](https://smallflyingpig.github.io/speaker-recognition-attacker/main)) ICASSP 2020 
+1. ### Learning to fool the speaker recognition. [Jiguo Li, ..] ([paper](https://arxiv.org/abs/2004.03434)、[code](https://github.com/smallflyingpig/learning-to-fool-the-speaker-recognition)、[Web](https://smallflyingpig.github.io/speaker-recognition-attacker/main))    ICASSP 2020 
 ## 【3】Defense Papers
-1. ### ADVERSARIAL DEFENSE FOR DEEP SPEAKER RECOGNITION USING HYBRID DVERSARIAL TRAINING. [Monisankha Pal1, Arindam Jati..]([paper](https://arxiv.org/abs/2010.16038))ICASSP 2021
+1. ### ADVERSARIAL DEFENSE FOR DEEP SPEAKER RECOGNITION USING HYBRID DVERSARIAL TRAINING. [Monisankha Pal, Arindam Jati..] ([paper](https://arxiv.org/abs/2010.16038))   ICASSP 2021
 ## 【4】Related Techniques
