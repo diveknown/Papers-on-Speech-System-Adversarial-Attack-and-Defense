@@ -18,12 +18,11 @@ remain to be introduced
 ## - Speaker Recognition/Verfication
 ### 【1】Survey
 ### 【2】Attack Papers
-1. #### https://img.shields.io/badge/{1}-{11}-{blue}.svg 
-FoolHD: Fooling Speaker Identification by Highly Imperceptible Adversarial Disturbances.([paper](https://arxiv.org/pdf/2011.08483v2.pdf)) ICASSP 2021
-3. #### Attack on Practical Speaker Verification Systerm Using Universal Adversarial Perturbations.([Paper](https://arxiv.org/pdf/2105.09022.pdf)) ICASSP 2021
-4. #### Learning to fool the speaker recognition. [Jiguo Li, ..] ([paper](https://arxiv.org/abs/2004.03434)、[code](https://github.com/smallflyingpig/learning-to-fool-the-speaker-recognition)、[Web](https://smallflyingpig.github.io/speaker-recognition-attacker/main))    ICASSP 2020 
+1. #### ![ICASSP](https://img.shields.io/badge/ICASSP-2021-blue.svg) FoolHD: Fooling Speaker Identification by Highly Imperceptible Adversarial Disturbances.([paper](https://arxiv.org/pdf/2011.08483v2.pdf)) ICASSP 2021
+3. #### ![ICASSP](https://img.shields.io/badge/ICASSP-2021-blue.svg) Attack on Practical Speaker Verification Systerm Using Universal Adversarial Perturbations.([Paper](https://arxiv.org/pdf/2105.09022.pdf)) ICASSP 2021
+4. #### ![ICASSP](https://img.shields.io/badge/ICASSP-2020-blue.svg) Learning to fool the speaker recognition. [Jiguo Li, ..] ([paper](https://arxiv.org/abs/2004.03434)、[code](https://github.com/smallflyingpig/learning-to-fool-the-speaker-recognition)、[Web](https://smallflyingpig.github.io/speaker-recognition-attacker/main))    ICASSP 2020 
 ### 【3】Defense Papers
-1. #### Adversarial Defense for Deep Speaker Recognition Using Hybrid Dversarial Training. [Monisankha Pal, Arindam Jati..] ([paper](https://arxiv.org/abs/2010.16038))   ICASSP 2021
-2. #### Adversarial Defense for Automatic Speaker Verification by Cascaded Self-Supervised Learning Models. [Haibin Wu;Xu Li..] ([paper](https://ieeexplore.ieee.org/document/9413737?denied=))  ICASSP2021
-3. #### Voting for the right answer: Adversarial defense for speaker verification.([paper](https://arxiv.org/pdf/2106.07868.pdf))   InterSpeech 2021
+1. #### ![ICASSP](https://img.shields.io/badge/ICASSP-2021-blue.svg) Adversarial Defense for Deep Speaker Recognition Using Hybrid Dversarial Training. [Monisankha Pal, Arindam Jati..] ([paper](https://arxiv.org/abs/2010.16038))   ICASSP 2021
+2. #### ![ICASSP](https://img.shields.io/badge/ICASSP-2021-blue.svg) Adversarial Defense for Automatic Speaker Verification by Cascaded Self-Supervised Learning Models. [Haibin Wu;Xu Li..] ([paper](https://ieeexplore.ieee.org/document/9413737?denied=))  ICASSP 2021
+3. #### ![ICASSP](https://img.shields.io/badge/InterSpeech-2021-red.svg) Voting for the right answer: Adversarial defense for speaker verification.([paper](https://arxiv.org/pdf/2106.07868.pdf))   InterSpeech 2021
 ### 【4】Related Techniques
